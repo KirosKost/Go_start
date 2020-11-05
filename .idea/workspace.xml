@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4ca5f5a-5947-4525-a268-67cbb0ac7b99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1jjlfjOD34zNgSjHyTKszhzzG1B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Go" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build repeatcode.go">
+    <configuration name="go build game.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/game.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build pass_fail.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pass_fail.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repeatcode.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/repeatcode.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build repeatcode.go" />
+        <item itemvalue="Go Build.go build game.go" />
+        <item itemvalue="Go Build.go build pass_fail.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="59" width="400" height="684" key="#GOPATH" timestamp="1604325511189">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="502" y="59" width="400" height="684" key="#GOPATH/48.27.1318.741@48.27.1318.741" timestamp="1604325511189" />
+    <state x="165" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604325613399">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="165" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.27.1318.741@48.27.1318.741" timestamp="1604325613399" />
+    <state x="490" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604506617391">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="490" y="155" width="424" height="491" key="FileChooserDialogImpl/48.27.1318.741@48.27.1318.741" timestamp="1604506617391" />
+    <state width="1272" height="89" key="GridCell.Tab.0.bottom" timestamp="1604407618182">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1272" height="89" key="GridCell.Tab.0.bottom/48.27.1318.741@48.27.1318.741" timestamp="1604407618182" />
+    <state width="1272" height="89" key="GridCell.Tab.0.center" timestamp="1604407618181">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1272" height="89" key="GridCell.Tab.0.center/48.27.1318.741@48.27.1318.741" timestamp="1604407618181" />
+    <state width="1272" height="89" key="GridCell.Tab.0.left" timestamp="1604407618181">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1272" height="89" key="GridCell.Tab.0.left/48.27.1318.741@48.27.1318.741" timestamp="1604407618181" />
+    <state width="1272" height="89" key="GridCell.Tab.0.right" timestamp="1604407618182">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1272" height="89" key="GridCell.Tab.0.right/48.27.1318.741@48.27.1318.741" timestamp="1604407618182" />
+    <state x="196" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1604334796260">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="196" y="31" width="1022" height="737" key="SettingsEditor/48.27.1318.741@48.27.1318.741" timestamp="1604334796260" />
+    <state x="505" y="79" width="394" height="628" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604397176066">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="505" y="79" width="394" height="628" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/48.27.1318.741@48.27.1318.741" timestamp="1604397176066" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1604484844141">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/48.27.1318.741@48.27.1318.741" timestamp="1604484844141" />
+    <state x="370" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604483274212">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="370" y="89" width="672" height="678" key="search.everywhere.popup/48.27.1318.741@48.27.1318.741" timestamp="1604483274212" />
+  </component>
+</project>
